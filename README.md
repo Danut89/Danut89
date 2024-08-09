@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Danut Grigore</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+Hey there, I'm [Danut Grigore] 👋
+About Me
+Welcome to my corner of the internet! 🌍 I’m a Junior Web Developer with a knack for turning coffee into code. Currently, I’m diving headfirst into a Full Stack Development diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites from the ground up—because there’s nothing quite like bringing a whole web project to life!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danut89" alt="danut89" /></a> </p>
+Feel free to check out my portfolio to see what I’ve been brewing lately!
 
-- 🌱 I’m currently studying **full stack web development**
+Skills
+HTML: I speak fluent HTML, crafting web pages that are both beautiful and well-structured—like a perfectly brewed cup of coffee ☕.
+CSS & Bootstrap: I’ve got the skills to style the web into a responsive, visually stunning masterpiece, with a little help from Bootstrap’s handy components 🎨.
+JavaScript & jQuery: Whether it’s adding a bit of interactivity or creating a full-blown web app, I’m here to make your website as dynamic as it gets ⚡.
+Python & Django: When it comes to backend development, I’ve got you covered with robust and scalable web solutions using Python and Django 🐍.
+Currently Learning
+Full Stack Development: As part of my quest at Code Institute, I’m on a mission to conquer both frontend and backend worlds. React, Node.js, and more—I'm all in! 🚀
+Collaboration
+Looking for a coding buddy? 🎉 I’m eager to team up on JavaScript/React or Python/Django projects—let’s create something awesome and maybe even learn a thing or two along the way. Got a project idea? Shoot it my way; I promise I’m friendly!
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT**
-
-- 📫 How to reach me **voicuion488@gmail.com**
-
-- ⚡ Fun fact **The first programmer was the daughter of a mad poet**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/cercel.danut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cercel.danut" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danut89&show_icons=true&locale=en&layout=compact" alt="danut89" /></p>
-
-
+Interests
+Full Stack Web Development: I’m always on the hunt for the latest trends, best practices, and ways to push the boundaries of what’s possible on the web. If it’s shiny and new, I’m interested! ✨
+Contact Me
+Email: [voicuion488@gmail.com] (I promise I don’t bite!)
+LinkedIn:(https://www.linkedin.com/in/danut-grigore-573674304/) (Let’s connect and build a strong network!)
+GitHub: Check out my work here (Don’t forget to star a repo or two 😉)
+Thanks for stopping by! Let’s connect and make some magic happen on the web. 🌟
