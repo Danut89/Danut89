@@ -28,7 +28,7 @@ Looking for a coding buddy? 🎉 I’m eager to team up on **JavaScript/React or
 ## Contact Me
 
 - **Email**: [voicuion488@gmail.com] (I promise I don’t bite!)
-- **LinkedIn**: (linkedin.com/in/danut-grigore-573674304) (Let’s connect and build a strong network!)
+- **LinkedIn**: [linkedin.com/in/danut-grigore-573674304](#) (Let’s connect and build a strong network!)
 - **GitHub**: [Check out my work here](https://github.com/Danut89?tab=repositories) (Don’t forget to star a repo or two 😉)
 
 Thanks for stopping by! Let’s connect and make some magic happen on the web. 🌟
