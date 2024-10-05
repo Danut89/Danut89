@@ -1,4 +1,4 @@
-# Hey there, I'm [Danut Grigore] 👋
+# Hey there, I'm Danut Grigore 👋
 
 ## About Me
 
