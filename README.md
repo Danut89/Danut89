@@ -2,7 +2,7 @@
 
 ## About Me
 
-Welcome to my corner of the internet! 🌍 I’m a **Junior Web Developer** with a knack for turning coffee into code. Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites from the ground up—because there’s nothing quite like bringing a whole web project to life!
+Welcome to my corner of the internet! 🌍 I’m a **Software Developer** with a knack for turning coffee into code. Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites from the ground up—because there’s nothing quite like bringing a whole web project to life!
 
 Feel free to [check out my portfolio](#) to see what I’ve been brewing lately!
 
