@@ -2,9 +2,9 @@
 
 ## About Me
 
-Welcome to my corner of the internet! 🌍 I’m a **Software Developer** with a knack for turning coffee into code. Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites from the ground up—because there’s nothing quite like bringing a whole web project to life!
+Welcome to my corner of the internet! 🌍 I’m a **Software Developer**Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites and applications from the ground up—because there’s nothing quite like bringing a whole web project to life!
 
-Feel free to [check out my portfolio](#) to see what I’ve been brewing lately!
+Feel free to [check out my portfolio](https://danut89.github.io/PersonalProject1/index.html) to see what I’ve been brewing lately!
 
 ## Skills
 
@@ -27,8 +27,9 @@ Looking for a coding buddy? 🎉 I’m eager to team up on **JavaScript/React or
 
 ## Contact Me
 
-- **Email**: [voicuion488@gmail.com] (I promise I don’t bite!)
+- **Email**: voicuion488@gmail.com (I love to meet new peoples!)
 - **LinkedIn**: [[linkedin.com/in/danut-grigore-573674304](https://www.linkedin.com/in/danut-grigore-573674304/)](#) (Let’s connect and build a strong network!)
 - **GitHub**: [Check out my work here](https://github.com/Danut89?tab=repositories) (Don’t forget to star a repo or two 😉)
+- **Portfolio Website**: [Check out my Portofolio here](https://danut89.github.io/PersonalProject1/) 
 
 Thanks for stopping by! Let’s connect and make some magic happen on the web. 🌟
