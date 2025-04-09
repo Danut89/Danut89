@@ -1,35 +1,60 @@
-# Hey there, I'm Danut Grigore 👋
+# 👋 Hey there, I’m Danut Grigore
 
-## About Me
+## 💼 Full Stack Developer | Frontend Enthusiast | Backend Problem Solver
 
-Welcome to my corner of the internet! 🌍 I’m a **Software Developer**Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites and applications from the ground up—because there’s nothing quite like bringing a whole web project to life!
+Welcome to my GitHub! I'm a passionate and detail-oriented **Full Stack Developer** with a strong focus on building accessible, performant, and beautifully designed web applications. Currently enrolled in the **Full Stack Development Diploma** at Code Institute, I’m sharpening my skills across modern technologies — from intuitive frontend interfaces to robust backend logic.
 
-Feel free to [check out my portfolio](https://danut89.github.io/tailwindcss4/) to see what I’ve been brewing lately!
+Check out my latest work:  
+🔗 [**Live Portfolio**](https://danut89.github.io/tailwindcss4/)
 
-## Skills
+---
 
-- **HTML**: I speak fluent HTML, crafting web pages that are both beautiful and well-structured—like a perfectly brewed cup of coffee ☕.
-- **CSS & Bootstrap**: I’ve got the skills to style the web into a responsive, visually stunning masterpiece, with a little help from Bootstrap’s handy components 🎨.
-- **JavaScript & jQuery**: Whether it’s adding a bit of interactivity or creating a full-blown web app, I’m here to make your website as dynamic as it gets ⚡.
-- **Python & Django**: When it comes to backend development, I’ve got you covered with robust and scalable web solutions using Python and Django 🐍.
+## 🧠 Tech Stack
 
-## Currently Learning
+### 🔹 Frontend
+- **HTML5**, **CSS3**, **Tailwind CSS**, **Bootstrap**
+- **JavaScript (ES6+)**, **TypeScript**
+- **React**, **Next.js**, **Framer Motion**
 
-- **Full Stack Development**: As part of my quest at Code Institute, I’m on a mission to conquer both frontend and backend worlds. React, Node.js, and more—I'm all in! 🚀
+### 🔹 Backend
+- **Node.js**, **Express.js**
+- **Python**, **Flask**
+- **MongoDB**, **Mongoose**
+- **PostgreSQ**L & **Django ORM**
 
-## Collaboration
+### 🔹 Tools & Workflow
+- **Git**, **GitHub**, **Vite**, **Figma**
+- **VS Code**, **Postman**, **Netlify**, **Vercel**
 
-Looking for a coding buddy? 🎉 I’m eager to team up on **JavaScript/React or Python/Django projects**—let’s create something awesome and maybe even learn a thing or two along the way. Got a project idea? Shoot it my way; I promise I’m friendly!
+---
 
-## Interests
+## 🚀 What I’m Working On
+ 
+- Experimenting with headless CMS and API integration  
+- Building reusable components and focusing on accessibility best practices
 
-- **Full Stack Web Development**: I’m always on the hunt for the latest trends, best practices, and ways to push the boundaries of what’s possible on the web. If it’s shiny and new, I’m interested! ✨
+---
 
-## Contact Me
+## 🤝 Let’s Collaborate
 
-- **Email**: voicuion488@gmail.com (I love to meet new peoples!)
-- **LinkedIn**: [[linkedin.com/in/danut-grigore-573674304](https://www.linkedin.com/in/danut-grigore-573674304/)](#) (Let’s connect and build a strong network!)
-- **GitHub**: [Check out my work here](https://github.com/Danut89?tab=repositories) (Don’t forget to star a repo or two 😉)
-- **Portfolio Website**: [Check out my Portofolio here](https://danut89.github.io/PersonalProject1/) 
+I'm open to collaborating on meaningful projects — especially those built with:
+- 🧱 **React / Next.js**
+- 🐍 **Flask / Python**
+- 🎨 **Tailwind / UI Systems**
+- 💻 **REST APIs / Full Stack architectures**
 
-Thanks for stopping by! Let’s connect and make some magic happen on the web. 🌟
+Feel free to [reach out](mailto:voicuion488@gmail.com) if you have a cool idea or just want to chat code!
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 **Email**: [voicuion488@gmail.com](mailto:voicuion488@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/danut-grigore-573674304](https://www.linkedin.com/in/danut-grigore-573674304/)
+- 💻 **GitHub**: [github.com/Danut89](https://github.com/Danut89)
+- 🌐 **Portfolio Website**: [danut89.github.io/tailwindcss4](https://danut89.github.io/tailwindcss4/)
+
+---
+
+Thanks for dropping by — let’s build something amazing together. ✨
+
