@@ -4,7 +4,7 @@
 
 Welcome to my corner of the internet! 🌍 I’m a **Software Developer**Currently, I’m diving headfirst into a **Full Stack Development** diploma at Code Institute, where I’m mastering the art of both frontend and backend sorcery. My true passion? Building complete, functional, and beautifully crafted websites and applications from the ground up—because there’s nothing quite like bringing a whole web project to life!
 
-Feel free to [check out my portfolio](https://danut89.github.io/PersonalProject1/index.html) to see what I’ve been brewing lately!
+Feel free to [check out my portfolio](https://danut89.github.io/tailwindcss4/) to see what I’ve been brewing lately!
 
 ## Skills
 
